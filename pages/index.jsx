@@ -1,6 +1,6 @@
 
 import styles from '../styles/Home.module.css'
-import Card from './components/Card'
+import Card from '../components/Card'
 //import 'bootstrap/dist/css/bootstrap.css'
 
 export async function getStaticProps(params) {
